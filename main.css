@@ -1,0 +1,21 @@
+#blueBox {
+  display: inline;
+  width: 50%;
+  color: blue;
+  border: solid 3px;
+}
+
+#redBox {
+  display: inline;
+  width: 50%;
+  color: red;
+  border: solid 3px;
+}
+
+#message {
+  margin: 5px;
+  border-color: black;
+}
+
+.box {
+}
